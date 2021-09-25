@@ -1,6 +1,6 @@
 <?php
-$username="plim33future";
-$password="run53clap";
-$database="perezm_pmfuturo";
+$username="division";
+$password="Pinfloy77";
+$database="lolaenbarracas";
 ?>
 

@@ -1,7 +1,7 @@
 <?php
  
 global $mysqli;
-$mysqli = new mysqli("localhost", "c1380471_masta", 'asd1indSHdsj', "c1380471_barraca");
+$mysqli = new mysqli("localhost", "division", 'Pinfloy77', "lolaenbarracas");
 
 if ($mysqli->connect_errno) {
     echo "Fallo al contenctar a MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
